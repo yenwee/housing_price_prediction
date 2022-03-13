@@ -1,0 +1,9 @@
+.ipynb_checkpoints/*
+catboost_info/*
+data_description.txt
+sample_submission.csv
+submission.csv
+submission_v2.csv
+test.csv
+train.csv
+token.txt
